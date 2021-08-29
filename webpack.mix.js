@@ -9,7 +9,9 @@ if (!mix.inProduction()) {
         .setPublicPath('dist/')
 
         // bundles js: (from, to)
-        .js('main.js', 'dist/')
+        .js('example0/main.js', 'dist/example0.js')
+        .js('example1/main.js', 'dist/example1.js')
+        .sass('example1/index.scss', 'dist/example1.css')
 
         // compiles sass and add css3 prefixes: (from, to)
         // .sass('src/styles/index.scss', 'dist/')
