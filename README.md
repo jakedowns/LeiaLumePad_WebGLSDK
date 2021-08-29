@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LeiaLumePad_WebGLSDK
-this is a slightly modified version of the leia lume pad web gl sdk demo
-=======
 # Leia Inc. Lume Pad / RED Hydrogen One WebGL SDK Demo
 
 Disclaimer: I do not own or claim to own any rights to this software. I am simply uploading it so that it might be easier for other devs like my self to discover and work with it.
@@ -26,4 +22,3 @@ Releated Links:
 - https://docs.leialoft.com/developer/webgl-sdk/initializing-the-sdk
 - https://www.npmjs.com/package/sevensummitswebglsdkdemo
 - https://github.com/antoinealiotti/LeiaCore
->>>>>>> initial commit
