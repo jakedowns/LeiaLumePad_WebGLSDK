@@ -8,7 +8,7 @@ I was having trouble getting this demo running, so i modified it to use laravel-
 
 To run this demo:
 1. npm install
-1. npm run mix / npm run watch (see: laravel-mix documentation for more info)
+1. `npm run dev` or `npm run watch` (see: laravel-mix documentation for more info)
 1. in another terminal window, use something like `npx http-server` or your http server of choice to serve the files
 
 ---
