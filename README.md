@@ -1,4 +1,6 @@
-# Leia Inc. Lume Pad / RED Hydrogen One WebGL SDK Demo
+# Leia Inc. WebGL SDK Demo
+
+for Lume Pad / RED Hydrogen One
 
 Disclaimer: I do not own or claim to own any rights to this software. I am simply uploading it so that it might be easier for other devs like my self to discover and work with it.
 
