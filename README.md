@@ -13,7 +13,17 @@ To run this demo:
 
 ---
 
-as of this writing, npm i `leiawebglsdk` in the official leialoft docs > WebGL SDK section points to a 404-ing npm package
+~~as of this writing, npm i `leiawebglsdk` in the official leialoft docs > WebGL SDK section points to a 404-ing npm package~~
+
+**Update** the NPM package was updated by Leia, and the docs have been updated to match:
+
+
+`npm install leiawebglsdkdemo` 
+
+see: [Official Docs](https://docs.leialoft.com/developer/webgl-sdk/initializing-the-sdk)
+see: [Official Response on Leia Loft Forum Post](https://forums.leialoft.com/t/webgl-sdk-leiawebglsdk-npm-package-missing-temp-alternative-found/1335/2)
+
+**Previously,**
 
 instead, i found `sevensummitswebglsdkdemo` which seems to work (tho has no github repo associated with it)
 
